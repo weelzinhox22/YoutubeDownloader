@@ -1,0 +1,5 @@
+
+project_id = "htmkhefvctwmbrgeejkh"
+
+[functions.youtube-dl]
+verify_jwt = true
